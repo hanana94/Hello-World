@@ -12,3 +12,5 @@ Hello-World
 * The Math Club meeting was extremely brief
 * I helped give a presentation to some Honors Students about [SURC](http://nau.edu/Undergraduate-Research/Student-Undergraduate-Research-Council/)
 * Finally, I got home and ate some [pizza](http://scene7.samsclub.com/is/image/samsclub/0007192127254_A?$img_size_380x380$) and a kale salad. **YUM**
+
+Sitting in Dana’s office
